@@ -1,6 +1,6 @@
 # SVM Kernel Trick 3D Interactive Demo (支持向量機核函數 3D 互動教學展示)
-DEMO網址:https://seanlinesvm.streamlit.app/
-Git連結:https://github.com/gshan1209-cell/L13_SVM
+# DEMO網址:https://seanlinesvm.streamlit.app/
+# Git連結:https://github.com/gshan1209-cell/L13_SVM
 ![alt text](L13_SVM.png)
 本專案是一個互動式的多階段教學展示系統，旨在幫助學生直觀地理解支持向量機 (Support Vector Machine, SVM) 的核函數方法 (Kernel Methods) 與核函數技巧 (Kernel Trick)。
 
