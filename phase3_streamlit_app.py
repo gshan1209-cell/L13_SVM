@@ -65,10 +65,10 @@ st.markdown("""
             padding: 1rem 1.5rem;
             border-radius: 4px 12px 12px 4px;
             margin: 1rem 0;
-            color: #E2E8F0;
+            color: inherit;
         }
         .math-warning-title {
-            color: #FFD54F;
+            color: inherit;
             font-weight: 600;
             margin-bottom: 0.25rem;
         }
